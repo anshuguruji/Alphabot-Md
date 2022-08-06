@@ -20,28 +20,28 @@ global.userRegister = true
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
+global.language = english  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["622150996855","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.botname = "Anshubot-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ AnshuGuruji ×፝֟͜×" //nama kalian
+global.myweb ="https://www.instagram.com/anshuguruji" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/tseries" //bebas asal jan hapus
+global.myweb2 = "https://linktr.ee/anshuguruji" //bebas
+global.email = "anshumansinghxyz@yahoo.com" //bebas
+global.region = "India" //bebas
+global.timezone = 'Asia/delhi' //  timezone wib
+global.premium = ['918218903495'] //premium user
+global.owner = ["918218903495","919695697804"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "15144167611" // nomor wa kalian
+global.ownernomerr = "+15144167611" //nmr wa kalian
+global.thumbnail = "https://imgur.com/TXqhjXT.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "https://imgur.com/WFF4Apj.jpg" // foto donasi di folder image
+global.background_welcome="https://imgur.com/rxK7xb4.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.packname = '© Anshubot-Mdོ' //sticker wm ubah
+global.author = 'Created By AnshuGuruji' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
